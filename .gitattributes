@@ -7,3 +7,4 @@ laser[[:space:]]gira[[:space:]]50gr[[:space:]]5V[[:space:]]disco[[:space:]]-[[:s
 [200~ filter=lfs diff=lfs merge=lfs -text
 laser[[:space:]]gira[[:space:]]50gr[[:space:]]5V[[:space:]]disco[[:space:]]-[[:space:]]1200V[[:space:]]10V[[:space:]]1s[[:space:]]47kOmh[[:space:]]-[[:space:]]Daq[[:space:]]2.zip filter=lfs diff=lfs merge=lfs -text
 laser[[:space:]]gira[[:space:]]50gr[[:space:]]5V[[:space:]]disco[[:space:]]-[[:space:]]1200V[[:space:]]10V[[:space:]]1s[[:space:]]47kOmh[[:space:]]-[[:space:]]Daq.zip filter=lfs diff=lfs merge=lfs -text
+Datos[[:space:]]procesados.zip filter=lfs diff=lfs merge=lfs -text
